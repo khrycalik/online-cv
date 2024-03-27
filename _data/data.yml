@@ -13,7 +13,7 @@ sidebar:
     avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kh221100@wp.pl
+    email: krzysztof.hrycalik@gmail.com
     phone: +48 787 799 809
     timezone: Central European Standard Time
     citizenship:
@@ -40,7 +40,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Automotive
+        - item: Traveling
           link:
 
         - item: Skiing
@@ -49,9 +49,15 @@ sidebar:
         - item: Squash
           link:
 
+        - item: Automotive
+          link:
+
     bookshelf:
       title: Bookshelf
       info:
+        - item: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+          link: https://www.deeplearningbook.org/
+
         - item: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
           link: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646
 
@@ -90,14 +96,24 @@ experiences:
 
           On a daily basis, I assume the additional role of a security master within the team. This role involves continuous self-improvement in the field of security, both in terms of writing secure code in compliance with SEI CERT standards and in terms of legal regulations, for example, related to the use of artificial intelligence or third-party products. I share this knowledge with the team to ensure that our code is highly resistant to various attacks and errors.
 
+          At the beginning of 2024, I changed my additional role to the newly created ML (machine learning) master, which better suits my interests. As part of my development in this area, at the beginning of March I started a 15-week course conducted by specialists from AGH University of Science and Technology in cooperation with Ericsson.
 
 certifications:
       title: Learning
       intro: >
-        As part of my professional development and personal interests, I continuously learn about AI/ML. I utilize internal training systems at work and dedicate my free time to reading books such as the excellent publication "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.
+        As part of my professional development and personal interests, I continuously learn about AI/ML. I utilize internal training systems at work and dedicate my free time to reading books, such as the publication "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. Currently I am reading the 
         My interest in this field began during the preparation of my engineering thesis, where I utilized genetic algorithms with the support of the Ares supercomputer to analyze their functionality and the impact of model modifications on solving the traveling salesman problem and the knapsack problem.
       list:
-        - name: AWS Machine Learning
+      - name: AI/ML Bootcamp
+          start: 2024
+          end: 06-2024
+          organization: AGH University of Science and Technology & Ericsson 
+          credentialid:
+          credentialurl: 
+          credentialname: AI/ML Bootcamp
+          details: |
+            AGH Ericsson course covers topics such as Convolutional NN, RNN, NLP, Generative AI, Autoencoders, Reinforcement learning.
+        - name: AWS Machine Learning course
           start: 2023
           end:
           organization: AWS
@@ -106,7 +122,7 @@ certifications:
           credentialname: AWS Machine Learning
           details: |
             I know how to integrate ML and AI with AWS tools and applications. This course has also helped me explore a broader and deeper set of machine learning services and supporting cloud infrastructure.
-        - name: AWS Practitioner 
+        - name: AWS Practitioner course
           start: 2023
           end: 
           organization: AWS
@@ -114,7 +130,7 @@ certifications:
           credentialurl: https://www.youtube.com/watch?v=SOTamWNgDKc&t=1s&ab_channel=freeCodeCamp.org
           credentialname: AWS Practitioner 
           details: |
-            I gained basic knowledge basic knowledge about AWS cloud, services, and terminology.
+            I gained basic knowledge about AWS cloud, services, and terminology.
         - name: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
           start: 2023
           end: 
