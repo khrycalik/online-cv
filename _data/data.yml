@@ -104,7 +104,7 @@ certifications:
         As part of my professional development and personal interests, I continuously learn about AI/ML. I utilize internal training systems at work and dedicate my free time to reading books, such as the publication "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron. Currently I am reading the 
         My interest in this field began during the preparation of my engineering thesis, where I utilized genetic algorithms with the support of the Ares supercomputer to analyze their functionality and the impact of model modifications on solving the traveling salesman problem and the knapsack problem.
       list:
-      - name: AI/ML Bootcamp
+        - name: AI/ML Bootcamp
           start: 2024
           end: 06-2024
           organization: AGH University of Science and Technology & Ericsson 
