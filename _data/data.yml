@@ -105,8 +105,13 @@ certifications:
         My interest in this field began during the preparation of my engineering thesis, where I utilized genetic algorithms with the support of the Ares supercomputer to analyze their functionality and the impact of model modifications on solving the traveling salesman problem and the knapsack problem.
       list:
         - name: AI/ML Bootcamp
+<<<<<<< HEAD
           start: from 03-2024
           end:  to 06-2024
+=======
+          start: 2024
+          end: 06-2024
+>>>>>>> 8043a9f5cbcd077710aa0cee589f70be0b5ede04
           organization: AGH University of Science and Technology & Ericsson 
           credentialid:
           credentialurl: 
