@@ -92,7 +92,7 @@ experiences:
           As one of the most competent teams in the 5G Traffic Control (TC) domain, we have been assigned to work on the design and implementation of a solution in this sector.
           Regarding my responsibilities, as a member of the Cross Functional Team (XFT), I actively participate in preparing solution proposals, implementing, testing, and documenting them.
           Each of these stages is preceded by thorough analysis of documentation and code to create the best and most robust solutions. 
-          As part of the implementation, I use <b>C++17<\b>. Depending on the level, tests either utilize the Google Test framework or are written in Erlang. The main part of the documentation is written using plantUML.
+          As part of the implementation, I use <b>C++17</b>. Depending on the level, tests either utilize the Google Test framework or are written in Erlang. The main part of the documentation is written using plantUML.
 
           On a daily basis, I assume the additional role of a security master within the team. This role involves continuous self-improvement in the field of security, both in terms of writing secure code in compliance with SEI CERT standards and in terms of legal regulations, for example, related to the use of artificial intelligence or third-party products. I share this knowledge with the team to ensure that our code is highly resistant to various attacks and errors.
 
@@ -105,8 +105,8 @@ certifications:
         My interest in this field began during the preparation of my engineering thesis, where I utilized genetic algorithms with the support of the Ares supercomputer to analyze their functionality and the impact of model modifications on solving the traveling salesman problem and the knapsack problem.
       list:
         - name: AI/ML Bootcamp
-          start: from 03-2024
-          end:  to 06-2024
+          start: 03.2024
+          end: 06.2024
           organization: AGH University of Science and Technology & Ericsson 
           credentialid:
           credentialurl: 
